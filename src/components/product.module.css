@@ -1,0 +1,15 @@
+.product {
+  width: 90%;
+  margin: auto;
+  display: grid;
+  grid-template-rows: auto;
+  grid-template-columns: repeat(3,1fr);
+  gap: 1rem;
+}
+
+.text{
+  text-align: center;
+}
+.img{
+  width: 100%;
+}
